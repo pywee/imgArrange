@@ -1,0 +1,17 @@
+[
+    {
+        "dirName": "相片",
+        "suffix": ["jpg", "jpeg", "png", "gif"],
+        "ymd": 0
+    },
+    {
+        "dirName": "视频",
+        "suffix": ["avi", "mov", "mp4", "mpeg4"],
+        "ymd": 1
+    },
+    {
+        "dirName": "文本",
+        "suffix": ["sql","txt"],
+        "ymd": 1
+    }
+]
